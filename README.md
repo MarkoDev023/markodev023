@@ -1,6 +1,6 @@
 <div>
-  <h1>Olá!</h1>
-  <p>Você é mais do que bem-vindo aqui. Me chamo Marcos ,moro no Paraná e sou amante de tecnologia tanto na parte de software quanto hardware!Estou no começo da minha jornada com o objetivo de virar um ótimo programador profissional!</p>
+  <h1>👊Olá!</h1>
+  <p>😎Você é mais do que bem-vindo aqui. Me chamo Marcos ,moro no Paraná e sou amante de tecnologia tanto na parte de software quanto hardware!Estou no começo da minha jornada com o objetivo de virar um ótimo programador profissional!</p>
   <a href="https://github.com/MarkoDev023">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarkoDev023&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarkoDev023&layout=compact&langs_count=6&theme=tokyonight"/>
